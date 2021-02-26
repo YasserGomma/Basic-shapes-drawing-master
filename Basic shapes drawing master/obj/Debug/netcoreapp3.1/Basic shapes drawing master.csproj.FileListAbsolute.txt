@@ -1,0 +1,17 @@
+D:\2021\Basic shapes drawing master\Basic shapes drawing master\bin\Debug\netcoreapp3.1\Basic shapes drawing master.exe
+D:\2021\Basic shapes drawing master\Basic shapes drawing master\bin\Debug\netcoreapp3.1\Basic shapes drawing master.deps.json
+D:\2021\Basic shapes drawing master\Basic shapes drawing master\bin\Debug\netcoreapp3.1\Basic shapes drawing master.runtimeconfig.json
+D:\2021\Basic shapes drawing master\Basic shapes drawing master\bin\Debug\netcoreapp3.1\Basic shapes drawing master.runtimeconfig.dev.json
+D:\2021\Basic shapes drawing master\Basic shapes drawing master\bin\Debug\netcoreapp3.1\Basic shapes drawing master.dll
+D:\2021\Basic shapes drawing master\Basic shapes drawing master\bin\Debug\netcoreapp3.1\Basic shapes drawing master.pdb
+D:\2021\Basic shapes drawing master\Basic shapes drawing master\obj\Debug\netcoreapp3.1\Basic shapes drawing master.csprojAssemblyReference.cache
+D:\2021\Basic shapes drawing master\Basic shapes drawing master\obj\Debug\netcoreapp3.1\Basic_shapes_drawing_master.Form1.resources
+D:\2021\Basic shapes drawing master\Basic shapes drawing master\obj\Debug\netcoreapp3.1\Basic shapes drawing master.csproj.GenerateResource.cache
+D:\2021\Basic shapes drawing master\Basic shapes drawing master\obj\Debug\netcoreapp3.1\Basic shapes drawing master.AssemblyInfoInputs.cache
+D:\2021\Basic shapes drawing master\Basic shapes drawing master\obj\Debug\netcoreapp3.1\Basic shapes drawing master.AssemblyInfo.cs
+D:\2021\Basic shapes drawing master\Basic shapes drawing master\obj\Debug\netcoreapp3.1\Basic shapes drawing master.csproj.CoreCompileInputs.cache
+D:\2021\Basic shapes drawing master\Basic shapes drawing master\obj\Debug\netcoreapp3.1\Basic shapes drawing master.dll
+D:\2021\Basic shapes drawing master\Basic shapes drawing master\obj\Debug\netcoreapp3.1\Basic shapes drawing master.pdb
+D:\2021\Basic shapes drawing master\Basic shapes drawing master\obj\Debug\netcoreapp3.1\Basic shapes drawing master.genruntimeconfig.cache
+D:\2021\Basic shapes drawing master\Basic shapes drawing master\obj\Debug\netcoreapp3.1\Basic_shapes_drawing_master.Properties.Resources.resources
+D:\2021\Basic shapes drawing master\Basic shapes drawing master\obj\Debug\netcoreapp3.1\Basic_shapes_drawing_master.MainForm.resources
